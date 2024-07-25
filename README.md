@@ -50,4 +50,5 @@
    - Research on how to find eigenvalues using the QR Algorithm
 
 ## TODO:
+- DELETE .docx FILE
 - DELETE .asv FILES
