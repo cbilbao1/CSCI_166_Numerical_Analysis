@@ -22,16 +22,32 @@
    - Implement the False Position method
    - Calculate midpoint and error of a collection of inputs
 4. HW 4
-   -
+   - Implement Newton's Method
+   - Integrate a stopping criteria, with a max number of iterations that stops the algorithm
+   - Keep track of the error of each iteration
 5. HW 5
-   -
+   - Construct the Hilbert matrix
+   - Format a table to store the information of the Hilbert matrix
+   - LU Decomposition
+   - Helper functions:
+     - Subtract two vectors
+     - Calculate infinity norm of vector
 6. HW 8
-   -
+   - Linear systems
+   - Jacobian function
+   - Given an initial guess
+   - Implement Newton's method
+   - Compute norm of two vectors
+   - Calculate tolerance of two vector
 7. HW 9
-   -
+   - 5 point Gaussian Quadrature, 5 equations in total
+   - Solve the system
+   - Find the sample points and weights
+   - Calculate the integrals of each equation
+   - Implement the Richardson Extrapolation
+   - Implement the Trapezoidal Rule
 8. Final Project
-   -
+   - Research on how to find eigenvalues using the QR Algorithm
 
-## *TODO:*
-- WRITE DESCRIPTION
+## TODO:
 - DELETE .asv FILES
